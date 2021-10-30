@@ -1,0 +1,6 @@
+[mod]
+title: Apocalypse
+description: Very heavily armed and armored experimental super heavy tank. Armed with twin heavy cannons, missile launcher, front mounted minigun, and beam turret. Attack ground and air. Slow and vulnerable vs artillery.
+tags: units, tank, experimental
+
+thumbnail: ApocThumbnail.png

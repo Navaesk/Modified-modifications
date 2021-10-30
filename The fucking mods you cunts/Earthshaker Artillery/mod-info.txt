@@ -1,0 +1,6 @@
+[mod]
+title: Earthshaker
+description: A medium armored experimental howitzer powered by high tech jet engine. It has twin flak cannon turret for ground and air defense (can't be manually ordered), they are not good for fighting T2 and tougher units so it must rely on other unit for protection. The main gun has minimum attack range but can be upgraded two times with extra barrel and firepower (2nd upgrade). The upgrade will reduce vehicle mobility and shield capacity for the equipment space. The howitzer will fire more accurately and gain extra range when the vehicle deployed. The vehicle can't move during this upgrade but it can be done on mobile or deployed state.
+tags: units, artillery, experimental
+
+thumbnail: ES thumbnail.png
