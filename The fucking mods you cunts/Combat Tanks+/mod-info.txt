@@ -1,0 +1,6 @@
+[mod]
+title: Combat Tank
+description: An agile armored tank that can be converted into various unit types. These units no longer count as experimental when killed but still built from experimental factory due to units capability. List of upgrade: IFV, anti air, assault tank, MLRS, artillery. Rocket launcher with target ground features is still WIP. I might add one more unit type later.
+tags: units, tank
+
+thumbnail: Combat Tank thumbnail.png
