@@ -1,0 +1,7 @@
+[mod]
+title: Simple USS Iowa (Missouri)
+description: One of the largest battleships ever made, cool.
+
+tags: units
+
+thumbnail: Thumbnail.png
