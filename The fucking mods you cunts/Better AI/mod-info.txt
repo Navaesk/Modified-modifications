@@ -1,7 +1,0 @@
-[mod]
-title: Straighten Uped AI Priorities 
-description: Changes the AI Priorities. They Should now build Fabricators, Mech Factories, ect. Not all Units are currently included.
-
-tags: units
-
-thumbnail: thum.png
