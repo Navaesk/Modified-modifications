@@ -1,7 +1,0 @@
-[mod]
-title: Oceanic Fabricators
-description: Fabricators but now in water! Can be built by Builder and Builder Ship. Very useful for large ocean maps.
-
-tags: buildings
-
-thumbnail: Screenshot_5.png
