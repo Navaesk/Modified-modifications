@@ -1,4 +1,0 @@
-[mod]
-title: Repair Bay +
-description: A simple mod that adds an T2 upgrade and animation for the repair bay.
-thumbnail: thumbnail.png
